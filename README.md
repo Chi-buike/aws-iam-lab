@@ -1,5 +1,9 @@
 ## AWS IAM Roles & Policies Lab
 
+## Project Structure
+- README.md  
+- screenshots/  
+
 
 # Overview
 This lab helped me understand how IAM roles, policies, and temporary permissions work in AWS. The goal was to see how users can safely get elevated access when they need it, and how that access can be removed when no longer required.
