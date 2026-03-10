@@ -1,4 +1,9 @@
-## AWS IAM Roles & Policies Lab
+# AWS IAM Roles & Policies Lab
+
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![AWS](https://img.shields.io/badge/AWS-IAM-orange)
+
 
 ## Project Structure
 - README.md  
