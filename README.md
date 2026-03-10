@@ -40,3 +40,6 @@ attaching and trusting IAM roles
 assuming temporary roles
 revoking access sessions
 and using both the console and CLI to manage permissions
+
+## Screenshots
+All screenshots from the lab are available in the **/screenshots** folder.
