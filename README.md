@@ -36,6 +36,9 @@ I tested revoking an active session. After the admin revoked the CRUD session, t
 # Using the CLI
 To finish the lab, I used Session Manager to connect to an EC2 instance and worked with the AWS CLI. I checked my identity, tested permissions, created policies, attached roles, and assumed a role from the CLI.
 
+## Conclusion
+This lab helped me practice IAM concepts like policies, roles, session revocation, and role assumption using both the console and CLI.
+
 
 # What I learned
 This lab gave me practical experience with:
@@ -47,3 +50,6 @@ and using both the console and CLI to manage permissions
 
 ## Screenshots
 All screenshots from the lab are available in the **/screenshots** folder.
+
+## How I ran this lab
+This lab was completed using AWS Skills Builder. All resources were provided by the lab environment.
